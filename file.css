@@ -1,0 +1,33 @@
+body {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      background-image: url(pic.jpg);
+      background-color: grey;
+      background-size: cover;
+  }
+  .card{
+       margin-top: 35px;
+       margin-left: 400px;
+      padding: 0;
+      height: 80vh;
+  }
+  .avi{
+      color:red;
+      font-weight: bold;
+  }
+  h5{
+      color:blue;
+      font-style: italic;
+  }
+  .pdi{
+      color:green;
+      font-weight: bold;
+  }
+  footer {
+  text-align: center;
+  padding: 3px;
+  background-color: Black;
+  color: white;
+}
+  
