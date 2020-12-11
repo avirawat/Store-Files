@@ -2,7 +2,7 @@ body {
       margin: 0;
       padding: 0;
       height: 100vh;
-      background-image: url(pic.jpg);
+      background-image: url(back.jpg);
       background-color: grey;
       background-size: cover;
   }
